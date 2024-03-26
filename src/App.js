@@ -1,6 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { debounce } from 'lodash';
-import './App.css';
 import {
   Container,
   TextField,
